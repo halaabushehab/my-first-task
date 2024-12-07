@@ -1,6 +1,6 @@
 # my-first-task
 
-# my-first-task
+
 # School System websit.
 School websites can serve as an effective communication channel between teachers and students in various ways: Teachers can use the school website to post announcements, share class schedules, and provide updates on ongoing assignments.
 
