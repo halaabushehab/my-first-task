@@ -34,4 +34,7 @@ https://www.greenhouseschoolwebsites.co.uk/blog/index.php/2019/10/school-website
 
 #MY WORK IN THIS TASK .
 "I created a wireframe, mockup, and prototype for a Korean school website. The wireframe focused on outlining the basic structure and layout of the site, ensuring it was user-friendly and functional. The mockup added visual elements, including colors, typography, and branding, to reflect the school’s identity. Finally, the prototype showcased an interactive version of the website, demonstrating the navigation and user experience to provide a clear vision of the final product."
-####This project was designed using modern technologies to ensure performance and quality[figma].
+
+
+
+#This project was designed using modern technologies to ensure performance and quality[figma].
