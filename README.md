@@ -38,3 +38,10 @@ https://www.greenhouseschoolwebsites.co.uk/blog/index.php/2019/10/school-website
 
 
 #This project was designed using modern technologies to ensure performance and quality[figma].
+
+
+#my work...
+
+https://www.figma.com/design/6fX29s9QjA74NjnDzEDFKZ/School-System?node-id=25-482&t=NJO3UROyxXnaSIDI-1[prototype]
+https://www.figma.com/design/6fX29s9QjA74NjnDzEDFKZ/School-System?node-id=0-1&t=y6YOLwP9nUT65X1H-1[wireframe +figma ]
+
