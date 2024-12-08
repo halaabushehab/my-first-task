@@ -41,7 +41,9 @@ https://www.greenhouseschoolwebsites.co.uk/blog/index.php/2019/10/school-website
 
 
 #my work...
+###wireframe +mockup:
+[link](https://www.figma.com/design/6fX29s9QjA74NjnDzEDFKZ/School-System?node-id=0-1&node-type=canvas&t=JCTnFJdCOlQRA5SQ-0 )
 
-https://www.figma.com/design/6fX29s9QjA74NjnDzEDFKZ/School-System?node-id=25-482&t=NJO3UROyxXnaSIDI-1[prototype]
-https://www.figma.com/design/6fX29s9QjA74NjnDzEDFKZ/School-System?node-id=0-1&t=y6YOLwP9nUT65X1H-1[wireframe +figma ]
+###prototype:
+[link](https://www.figma.com/proto/6fX29s9QjA74NjnDzEDFKZ/School-System?node-id=85-94)
 
